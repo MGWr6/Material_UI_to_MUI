@@ -3,8 +3,6 @@ import { CircularProgress, Grid, Typography, InputLabel, MenuItem, FormControl, 
 
 import useStyles from './styles';
 
-const plaaces
-
 const List = () => {
   const classes = useStyles();
   const [type, setType] = useState('gas_stations');
